@@ -166,9 +166,9 @@ class Subscribe:
 
 # authorization data for accessing the websocket with a valid account
 user = {
-    "license": "9e61c0eb-13e7-44c1-95c9-f55b6ce74608",
-    "client_id": "BhnB9PXJLri4kK2wZne0TZDjcjYKcbZ3XAnPlJMX",
-    "client_secret": "xY0tjRnIlPRaLQ6Sx63ig2zKU6lOHpdra2bENXVjVHvYDdI3EaEbyu51XxDGBiJnCg29ul8wmoWKsnkN2ZfQgEuPmIs8kQY3TsPRxKAfqAfWdVtEQkhPeoeruvXVtdtX",
+    "license": "INSERT LICENSE KEY HERE",
+    "client_id": "INSERT CLIENT ID HERE",
+    "client_secret": "INSERT CLIENT SECRET HERE",
     "debit": 100
 }
 # using the class Subscribe
