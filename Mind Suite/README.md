@@ -8,11 +8,7 @@ If you should´nt own these products, you can try it out anyways with the prerec
 
 ## Requirements
 
-1. Install *python-osc*, *jsonlib* and *numpy*:
+Install *python-osc*, *jsonlib* and *numpy*:  
 `$pip install python-osc` (https://pypi.org/project/python-osc/)  
 `$pip install jsonlib` (https://pypi.org/project/jsonlib/)  
-`$pip install numpy` (https://pypi.org/project/numpy/)  
-2. Get a EMOTIV EPOC, should work with different models too
-3. Purchase a PRO-License at Emotiv (https://www.emotiv.com/emotivpro/), get your License Key, your Client ID and your Client secret and insert it into osc_stream.py
-
-## Description
+`$pip install numpy` (https://pypi.org/project/numpy/)
