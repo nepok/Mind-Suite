@@ -7,9 +7,9 @@ If you should´nt own these products, you can try it out anyways
 ## Requirements
 
 1. Install python-osc, jsonlib and numpy:
-      <p> `$pip install python-osc` (https://pypi.org/project/python-osc/)</p>
-      <p> `$pip install jsonlib` (https://pypi.org/project/jsonlib/)</p>
-      <p> `$pip install numpy` (https://pypi.org/project/numpy/) </p>
+      <p>`$pip install python-osc` (https://pypi.org/project/python-osc/)
+       `$pip install jsonlib` (https://pypi.org/project/jsonlib/)
+       `$pip install numpy` (https://pypi.org/project/numpy/) </p>
 2. Get a EMOTIV EPOC, should work with different models too
 3. Purchase a PRO-License at Emotiv (https://www.emotiv.com/emotivpro/), get your License Key, your Client ID and your Client secret and insert it into osc_stream.py
 
