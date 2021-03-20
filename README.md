@@ -1,5 +1,11 @@
 # Mind Suite
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 **Mind Suite** is a project that was developed for my Bachelor Thesis with the title "Mind Suite - Conception and Realisation of prototypical Userinterfaces between Electroencephalography and Algorithmic Composition". 
 This Plug-In Suite is an attempt to make music with your brain.
 The Project is made for an *Emotiv EPOC* + in addition with a *Emotiv PRO License*, a *Python-Script* with the *Emotiv Cortex Library* and works in *Ableton Live* using *Max for Live*.
