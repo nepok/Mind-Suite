@@ -6,9 +6,9 @@ The Project is made for an *Emotiv EPOC* + in addition with a *Emotiv PRO Licens
 If you should´nt own these products, you can try it out anyways with the prerecorded Brain Data that comes with the Suite.
 
 Watch the Trailer here:
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/-WTnr3TXSrA/0.jpg)](http://www.youtube.com/watch?v=-WTnr3TXSrA "MIND SUITE TRAILER")
 
-
+https://youtu.be/-WTnr3TXSrA
 ## Requirements
 
 Install *python-osc*, *jsonlib* and *numpy*:  
