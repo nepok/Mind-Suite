@@ -6,7 +6,7 @@ The Project is made for an *Emotiv EPOC* + in addition with a *Emotiv PRO Licens
 If you should´nt own these products, you can try it out anyways with the prerecorded Brain Data that comes with the Suite.
 
 Watch the Trailer here:
-[Watch!](https://img.youtube.com/vi/EhWVbwdl2vw/0.jpg)](https://www.youtube.com/watch?v=EhWVbwdl2vw)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 
 ## Requirements
