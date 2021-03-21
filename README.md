@@ -15,7 +15,7 @@ Watch the Trailer here:
 `$pip install jsonlib` (https://pypi.org/project/jsonlib/)  
 `$pip install numpy` (https://pypi.org/project/numpy/)
 - Emotiv Epoc + (or higher)
-- Emotiv BCI, Emotiv PRO
+- Emotiv BCI and Emotiv PRO
 - Emotiv Cortex API
 - Python
 - Ableton Live with Max for Live
