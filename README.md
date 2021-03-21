@@ -14,3 +14,9 @@ Install *python-osc*, *jsonlib* and *numpy*:
 `$pip install python-osc` (https://pypi.org/project/python-osc/)  
 `$pip install jsonlib` (https://pypi.org/project/jsonlib/)  
 `$pip install numpy` (https://pypi.org/project/numpy/)
+
+- Emotiv Epoc + (or higher)
+- Emotiv BCI, Emotiv PRO
+- Emotiv Cortex API
+- Python
+- Ableton Live with Max for Live
